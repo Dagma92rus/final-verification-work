@@ -1,0 +1,15 @@
+C:\Users\denis\OneDrive\Рабочий стол\GeekBrains\final-verification-work\taskSolution\bin\Debug\net6.0\taskSolution.exe
+C:\Users\denis\OneDrive\Рабочий стол\GeekBrains\final-verification-work\taskSolution\bin\Debug\net6.0\taskSolution.deps.json
+C:\Users\denis\OneDrive\Рабочий стол\GeekBrains\final-verification-work\taskSolution\bin\Debug\net6.0\taskSolution.runtimeconfig.json
+C:\Users\denis\OneDrive\Рабочий стол\GeekBrains\final-verification-work\taskSolution\bin\Debug\net6.0\taskSolution.dll
+C:\Users\denis\OneDrive\Рабочий стол\GeekBrains\final-verification-work\taskSolution\bin\Debug\net6.0\taskSolution.pdb
+C:\Users\denis\OneDrive\Рабочий стол\GeekBrains\final-verification-work\taskSolution\obj\Debug\net6.0\taskSolution.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Рабочий стол\GeekBrains\final-verification-work\taskSolution\obj\Debug\net6.0\taskSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\OneDrive\Рабочий стол\GeekBrains\final-verification-work\taskSolution\obj\Debug\net6.0\taskSolution.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Рабочий стол\GeekBrains\final-verification-work\taskSolution\obj\Debug\net6.0\taskSolution.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Рабочий стол\GeekBrains\final-verification-work\taskSolution\obj\Debug\net6.0\taskSolution.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Рабочий стол\GeekBrains\final-verification-work\taskSolution\obj\Debug\net6.0\taskSolution.dll
+C:\Users\denis\OneDrive\Рабочий стол\GeekBrains\final-verification-work\taskSolution\obj\Debug\net6.0\refint\taskSolution.dll
+C:\Users\denis\OneDrive\Рабочий стол\GeekBrains\final-verification-work\taskSolution\obj\Debug\net6.0\taskSolution.pdb
+C:\Users\denis\OneDrive\Рабочий стол\GeekBrains\final-verification-work\taskSolution\obj\Debug\net6.0\taskSolution.genruntimeconfig.cache
+C:\Users\denis\OneDrive\Рабочий стол\GeekBrains\final-verification-work\taskSolution\obj\Debug\net6.0\ref\taskSolution.dll
